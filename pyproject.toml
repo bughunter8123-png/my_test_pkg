@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arsalan-test-pkg-9921"
+version = "0.1.0"
+description = "A test package for PyPI curl upload workflow"
+readme = "README.md"
+authors = [{ name = "Arsalan" }]
+requires-python = ">=3.7"

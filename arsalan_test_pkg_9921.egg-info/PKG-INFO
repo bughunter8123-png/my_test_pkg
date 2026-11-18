@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: arsalan-test-pkg-9921
+Version: 0.1.0
+Summary: A test package for PyPI curl upload workflow
+Author: Arsalan
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Test Package
